@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Rana Shahzad 👋
 
-<!--
-**ranashahzadexpert-beep/ranashahzadexpert-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Shopify Developer & CRO Engineer
+I build high-converting, lightning-fast Shopify stores that turn traffic into revenue. With over 5+ years of experience, I specialize in custom Liquid architecture, performance optimization, and custom application development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Expertise
+* **E-commerce & Frontend:** Shopify Liquid, HTML5, CSS3, Tailwind CSS, JavaScript, AJAX, jQuery
+* **Backend & Automation:** Node.js, Express, React, REST & GraphQL APIs
+* **Specialties:** Core Web Vitals Specialist, Custom Theme Development, Cart Drawer Customization, Upsell & Rewards Engine Integration, CRO Optimization
+
+---
+
+### 📈 What I Do Best
+* 🛠️ **Custom Theme Development:** Building pixel-perfect, mobile-first Shopify themes from scratch or Figma designs.
+* ⚡ **Performance Tuning:** Fixing redundant code scripts and optimizing stores to load in under 2 seconds.
+* 🎯 **Conversion Engineering:** Implementing smart features like slide-out cart drawers, dynamic upsells, and progress bars to scale AOV (Average Order Value).
+
+---
+
+### 💼 Let's Connect!
+* 📩 **Email:** [ranashahzad.expert@gmail.com](mailto:ranashahzad.expert@gmail.com)
+* 💼 **LinkedIn:** [ranashahzad-dev](https://www.linkedin.com/in/ranashahzad-dev)
+
+⚡ *Available for full-time contracts, freelance projects, and agency collaborations.*
